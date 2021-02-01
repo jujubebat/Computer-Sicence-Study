@@ -4,6 +4,6 @@
 # 카테고리
 - 자료구조 & 알고리즘
 - 컴퓨터네트워크
-- 운영체제
+- [운영체제](https://github.com/jujubebat/Computer-Sicence-Study/blob/main/Operating%20System.md)
 - 데이터베이스
 - 컴퓨터구조
