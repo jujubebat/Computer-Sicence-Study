@@ -2,7 +2,7 @@
 
 **HTTP**
 - HTTP는 웹상에 정보를 주고받을 수 있는 프로토콜이다.
-- 클라이언트-서버 구조다.
+- HTTP는 클라이언트-서버 구조다.
 - HTTP는 요청과 응답이 오간후 연결이 끊기는 특징이 있다.(Connectionless Protocol)
 - HTTP 서버는 클라이언트를 식별하지 못하느 특징이 있다.(Stateless Protocol)
 
