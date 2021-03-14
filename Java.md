@@ -1,12 +1,17 @@
 # Java
 
-**Unchecked Exception**
-
-- ex
-
 **Checked Exception**
 
+- Exception을 상속하는 예외다.
+- 컴파일 시점에 예외에 대한 처리(try/catch or throws)를 하지 않을 경우 컴파일 에러가 발생한다.
+- 호출하는 메소드가 Exception을 활용해 무엇인가 의미 있는 작업을 할 수 있다면 Checked Exception을 사용하자
 
+**Unchecked Exception**
+
+- RuntimeException을 상속하는 예외다.
+- 예외처리를 필수적으로 하지 않아도 된다.
+- 호출하는 메소드가 Exception을 처리할 수 없는 상황이라면  Unchecked Exception을 사용하자
+- 명확하지 않다면 Unchecked Exception을 사용하자
 
 **자바의 장단점**
 
@@ -29,10 +34,6 @@
 **오버로딩**
 
 **오버라이딩**
-
-**Unchecked Exception**
-
-**Checked Exception**
 
 **Stream API**
 
